@@ -11,16 +11,16 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Connect-green?style=for-the-badge&logo=portfolio" alt="My Portfolio"></a>
 
 ## 📖 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm an aspiring game developer passionate about bringing interactive worlds and creative mechanics to life. I enjoy laying the structural foundation for games through Java programming and SQL database management.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on developing complete 3D game environments by combining code with custom assets built in Blender, alongside exploring 2D and 3D animation.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not coding or modeling, I enjoy animating and experimenting with motion graphics. I love the "aha!" moment when code, art, and animation come together to create a seamless gameplay experience.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Game Developing
+- 3D Modeling & Animation pipeline
 
 ## 🛠️ Technical Skillset
 
