@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Connect-green?style=for-the-badge&logo=portfolio" alt="My Portfolio"></a>
+  <a href="https://jhoncarlocunanan.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Connect-green?style=for-the-badge&logo=portfolio" alt="My Portfolio"></a>
 
 ## 📖 About Me 
 I'm an aspiring game developer passionate about bringing interactive worlds and creative mechanics to life. I enjoy laying the structural foundation for games through Java programming and SQL database management.
